@@ -1,0 +1,142 @@
+.main_div{
+	    margin-top: 20px;
+	    height: 500px;
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	    border-radius: 1.25rem;
+}
+.heading{
+	height: 50px;
+
+}
+.heading_text{
+	
+}
+.text{
+	margin-top: 18px;
+}
+.find{
+	margin-left: 20%;
+    margin-top: 25px;
+    font-size: 18px;
+    font-family: arial;
+}
+.find2{
+	margin-left: 14%;
+}
+.find3{
+	margin-left: 30px;
+}
+.age{
+	height: 30px;
+    width: 180px;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+.age1{
+	height: 30px;
+    width: 180px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.religion{
+	height: 35px;
+    width: 400px;
+    margin-left: 11%;
+    border-radius: 5px;
+
+}
+.city{
+	height: 35px;
+    width: 400px;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+.stutas{
+	margin-left: 6%;
+}
+.stutas2{
+	margin-left: 3%;
+}
+
+.public{
+	margin-left: 2%;
+}
+.submit{
+	float: right;
+	padding: 10px 20px;
+	font-size: 18px;
+	margin-right: 28%;
+	font-family: arial;
+}
+.submit a{
+	text-decoration: none;
+}
+.banner_main_div{
+	    margin-top: 20px;
+	    height: 390px;
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	    border-radius: 1.25rem;
+	    background: #ccc;
+}
+.banner_heading{
+	height: 50px;
+
+}
+.banner_heading_text{
+	margin-left: 14px;
+}
+.banner_form{
+	    margin-top: 50px;
+    margin-left: 95px;
+}
+.banner_find{
+	margin-left: 100px;
+}
+.banner_find2{
+	margin-left: 30px;
+}
+.banner_age{
+	height: 25px;
+    width: 85px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.banner_age1{
+	height: 25px;
+    width: 85px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.banner_religion{
+	height: 25px;
+    width: 210px;
+    margin-left: 70px;
+    border-radius: 5px;
+
+}
+.banner_city{
+	height: 25px;
+    width: 210px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.banner_stutas{
+	margin-left: 35px;
+}
+.banner_stutas2{
+	margin-left: 134px;
+}
+.banner_stutas3{
+	margin-left: 28px;
+}
+.banner_public{
+	margin-left: 10px;
+}
+.banner_submit{
+	float: right;
+	padding: 10px 20px;
+	font-size: 16px;
+}
+.banner_submit a{
+	text-decoration: none;
+}

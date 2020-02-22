@@ -1,0 +1,159 @@
+
+.heading{
+	color: #7F7F7F;
+}
+.heading_right{
+	margin-top: 17px;
+	color: #7F7F7F;
+	float: right;
+	
+}
+.heading_right_text{
+	font-size: 11px;
+}
+.heading_text{
+	border: 1px solid gray;
+}
+.crate_border{
+	height: 35px;
+	width: 40%;
+	color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+.create_text{
+	font-weight: 700;
+	color: #7F7F7F;
+}
+.crate_border1{
+	width: 40%;
+
+}
+.div_text{
+	margin-left: 210px;
+}
+.div_mid{
+	margin-left: 180px;
+}
+.div_input{
+	margin-left: 50px;
+}
+.div_mid2{
+	margin-left: 153px;
+}
+.div_mid3{
+	margin-left: 159px;
+}
+.div_mid4{
+	margin-left: 195px;
+}
+.div_mid5{
+	margin-left: 140px;
+}
+.div_mid6{
+	margin-left: 128px;
+}
+.div_mid7{
+	margin-left: 203px;
+}
+.div_mid8{
+	margin-left: 201px;
+}
+.div_mid9{
+	margin-left: 166px;
+}
+.div_mid10{
+	margin-left: 177px;
+}
+.div_mid11{
+	margin-left: 161px;
+}
+.div_mid12{
+	margin-left: 183px;
+}
+.div_mid13{
+	margin-left: 127px;
+}
+.div_mid14{
+	margin-left: 148px;
+}
+.div_mid15{
+	margin-left: 187px;
+}
+.div_mid16{
+	margin-left: 131px;
+}
+.div_mid17{
+	margin-left: 228px;
+}
+.div_mid18{
+	margin-left: 208px;
+}
+.div_mid19{
+	margin-left: 218px;
+}
+.div_mid20{
+	margin-left: 162px;
+}
+.div_mid21{
+	margin-left: 158px;
+}
+.div_mid22{
+	margin-left: 164px;
+}
+.div_mid23{
+	margin-left: 165px;
+}
+.div_mid24{
+	margin-left: 117px;
+}
+.div_mid25{
+	margin-left: 108px;
+}
+.div_mid26{
+	margin-left: 155px;
+}
+.div_mid27{
+	margin-left: 172px;
+}
+.div_mid28{
+	margin-left: 149px;
+}
+.Cradio{
+	margin-left: 10px;
+}
+.Cradio2{
+	margin-left: 10px;
+}
+.diet2{
+	margin-left: 142px;
+}
+.diet3{
+	margin-left: 540px;
+}
+.crate_border2{
+	height: 100px;
+    width: 40%;
+}
+.about_text{
+	color: #7F7F7F;
+	font-size: 12px;
+	margin-left: 49%;
+}
+.about_text2{
+	font-size: 11px;
+    margin-left: 49%;
+}
+.privacy{
+	margin-left: 49%;
+}
+.privacy2{
+	font-size: 12px;
+}
+.button_link{
+	margin-left: 75%;
+    margin-top: 26px;
+}

@@ -1,0 +1,82 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.reg_div{
+	margin-top: 30px;
+    width: 50%;
+    height: 885px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    margin-left: 25%;
+}
+.heading{
+	height: 62px;
+}
+.heading_text{
+	font-size: 32px;
+}
+.name{
+	width: 45%;
+}
+.name2{
+	width: 45%;
+    margin-top: -38px;
+    margin-left: 55%;
+}
+.country{
+	color: #715858;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+.zone{
+	color: #715858;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+.district{
+	color: #715858;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out
+}
+.gender{
+	margin-left: 30px;
+	color: #715858;
+}
+.gender2{
+	margin-left: 10px;
+	color: #715858;
+}
+.privacy{
+	font-size: 12px;
+	color: #715858;
+}
+.button{
+	float: right;
+}
+.button{
+	width: 100%;
+    font-size: 21px;
+    font-family: arial;
+    padding: 10px;
+    border-radius: 5px;
+}
+.button a{
+	text-decoration: none;
+}
+.account{
+	font-size: 20px;
+    color: #715858;
+}
+.log{
+	font-size: 20px;
+}

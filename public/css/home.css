@@ -1,0 +1,390 @@
+/*Project Name: ;
+* Project Author: ;
+* Project Start Date: ;
+* Version: ;
+* All Section
+	1.Header
+	2.Bannar
+*/
+ /*base css start*/
+body{
+	margin:0px;
+	padding: 0px;
+	font-family: 'Montserrat',sans-serif;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+/*basic css end*/
+
+/*header css start*/
+.header{
+	padding: 0px 0px 0px 0px;
+	display: flex;
+
+}
+.header_left{
+	display: flex;
+	margin-right: 300px;
+}
+.header_left img{
+	height: 100px;
+    width: 120px;
+}
+.header_left h4{
+	margin-top: 35px;
+	font-family: arial;
+}
+
+.header_right{
+	display: flex;
+}
+.header_right_left{
+	margin-left: 30px;
+	margin-top: 35px;
+}
+.header_right_right{
+	margin-left: 30px;
+	margin-top: 35px;
+}
+.header_right a{
+	color: #28A745;
+	cursor: pointer;
+	text-decoration: none;
+	font-family: arial;
+}
+/*header css end*/
+
+/*menu css start*/
+.menu{
+	display: flex;
+	background: green;
+	padding: 10px 130px;
+}
+
+.menu_nav ul{
+	display: flex;
+	list-style: none;
+}
+.menu_nav ul li a{
+	margin-left: 92px;
+	text-decoration: none;
+	color: white;
+}
+/*menu css end*/
+
+
+/*banner css start*/
+.banner{
+	background-image: url("../img/couple1.jpg");
+	height: 500px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+
+
+}
+
+.banner_text{
+
+}
+.banner_text_heading{
+	font-size: 50px;
+    margin-top: 45px;
+    font-weight: 800;
+    font-family: sans-serif;
+    letter-spacing: 7px;
+}
+.banner_text_mid{
+	font-size: 73px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 0px;
+    letter-spacing: 5px;
+}
+.banner_text_mid2{
+	font-size: 60px;
+    font-family: sans-serif;
+    font-weight: 700;
+    margin-top: 0px;
+    letter-spacing: 2px;
+}
+.banner_button{
+	margin-top: 60px;
+}
+.banner_button a{
+	text-decoration: none;
+}
+.banner_text_button{
+    border: none;
+    padding: 25px;
+    font-size: 21px;
+    font-family: arial;
+    font-weight: 600;
+}
+/*banner css end*/
+
+/*search css start*/
+.search_main_div{
+	    
+	    height: 500px;
+	    
+}
+.search_heading{
+	height: 50px;
+
+}
+.search_heading_text{
+	margin-top: 55px;
+}
+.search_text{
+	margin-top: 18px;
+}
+.search_find{
+	margin-left: 24%;
+    margin-top: 27px;
+    font-size: 18px;
+    font-family: arial;
+}
+.search_find2{
+	margin-left: 14%;
+}
+.search_find3{
+	margin-left: 30px;
+}
+.search_age{
+	height: 30px;
+    width: 180px;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+.search_age1{
+	height: 30px;
+    width: 180px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.search_religion{
+	height: 35px;
+    width: 400px;
+    margin-left: 11%;
+    border-radius: 5px;
+
+}
+.search_city{
+	height: 35px;
+    width: 400px;
+    margin-left: 15%;
+    border-radius: 5px;
+}
+.search_stutas{
+	margin-left: 6%;
+}
+.search_stutas2{
+	margin-left: 3%;
+}
+
+.search_public{
+	margin-left: 2%;
+}
+.search_submit{
+	float: right;
+	padding: 10px 20px;
+	font-size: 18px;
+	margin-right: 24%;
+	font-family: arial;
+	text-decoration: none;
+}
+/*search css end*/
+
+/*work css start*/
+.work{
+	background: #F1F1F1;
+    height: 400px;
+}
+.work_text_heading{
+	margin-top: 32px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: arial;
+}
+.work_text_heading_mid{
+	font-size: 24px;
+    color: #8a7b8a;
+    font-family: arial;
+}
+.work_left{
+	width: 33%;
+}
+.work_mid{
+	width: 33%;
+}
+.work_right{
+	width: 33%;
+}
+.work_left_text_heading{
+	margin-top: 20px;
+	font-size: 25px;
+    font-family: arial;
+    letter-spacing: 1px;
+}
+.work_left_text_footer{
+	font-size: 14px;
+    padding: 0px 20px;
+    font-family: arial;
+    color: #545154;
+
+}
+.work_img{
+	height: 80px;
+    width: 80px;
+}
+.work_step{
+	margin-top: 30px;
+}
+/*work css end*/
+
+/*pakege css start*/
+.packag{
+	height: 770px;
+}
+.packag_heading{
+	margin-top: 32px;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-family: arial;
+}
+table{
+  /*border: 1px solid gray;*/
+  	margin-top: 45px;
+}
+th{
+	height: 50px;
+    font-size: 25px;
+    color: #81727E;
+    /*border: 1px solid gray;*/
+    border: none;
+}
+td{
+	 height: 50px;
+    font-size: 16px;
+     /*border: 1px solid gray;*/
+    text-align: center;
+     border: none;
+}
+.table_buttom{
+	padding: 8px 16px;
+    font-size: 18px;
+    font-family: arial;
+}
+.table_buttom:hover{
+	text-decoration: none;
+}
+.table_amount_text{
+	font-size: 20px;
+    font-weight: 800;
+    font-family: arial;
+}
+.table_symble{
+	height: 20px;
+	width: 20px;
+}
+.table_validity{
+    color: gray;
+    font-size: 18px;
+    font-family: arial;
+    font-weight: 600;
+}
+/*pakege css end*/
+
+/*testimonial css start*/
+.testimonial{
+	background: #F1F1F1;
+    height: 460px;
+}
+.testimonial_heading{
+
+}
+.testimonial_heading_text{
+	
+	margin-top: 32px;
+    font-size: 30px;
+    letter-spacing: 1px;
+    font-family: arial;
+
+}
+.testimonial_pic{
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	margin-top: 30px;
+}
+.testimonial_footer_text{
+	padding: 40px 190px 20px 190px;
+	color: gray;
+	font-family: arial;
+	font-weight: 500;
+}
+
+.testimonial_buttom_text{
+	padding: 10px 10px;
+	
+	font-family: arial;
+}
+.testimonial_buttom a{
+	text-decoration: none;
+}
+/*testimonial css end*/
+
+/*footer css start*/
+.footer{
+	display: flex;
+	background: ;
+	padding: 10px 20px;
+}
+.footer_text{
+	margin-left: 190px;
+	font-size: 12px; 
+	font-family: arial;
+}
+.footer_nav{
+	margin-left: 30px;
+}
+.footer_nav ul{
+	display: flex;
+	list-style: none;
+}
+.footer_nav ul li a{
+	font-size: 12px; 
+	font-family: arial;
+	margin-left: 10px;
+	text-decoration: none;
+	color: #28a745;
+}
+.footer_img ul{
+	display: flex;
+	margin-left: 20px;
+}
+.footer_icon{
+	height: 25px;
+	width: 25px
+}
+.footer_icon2{
+	height: 20px;
+	width: 20px
+}
+.footer_icon3{
+	height: 35px;
+	width: 35px
+}
+.footer_icon ul li a{
+	margin-left: 5px;
+}
